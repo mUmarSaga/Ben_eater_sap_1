@@ -20,8 +20,8 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 
 ## Instruction Sets
 - Here are all the instruction sets that this computer can execute
-![Click here](instructionSet/instructionSet1.jpg)
-![Click here](instructionSet/instructionSet2.jpg)
+![Click here](instructionSet)
+
 
 ## 📷 Gallery
 - In photos folder you can see a bunch of photos of Sap 1
