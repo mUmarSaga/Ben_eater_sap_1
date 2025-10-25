@@ -15,13 +15,12 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 - LEDs, resistors, clock circuit,dip switches,capacitors and push buttons
 
 ## 💻Programs
--In Sap1Program.asm file there is a unique bonus program that i couldnt find anywhere else on internet. It calculate greatest of two number. 
+- In Sap1Program.asm file there is a unique bonus program that i couldnt find anywhere else on internet. It calculate greatest of two number. 
 [click here to see greaterNumber program](Sap1Programs.asm)
 
 ## 📷 Gallery
-
-
-...
+- In photos folder you can see a bunch of photos of Sap 1
+![Front View](photos/1.jpg)
 
 ## 🧩 Skills Learned
 - Digital logic design
