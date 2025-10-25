@@ -17,7 +17,7 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 ## 📷 Gallery
 
 
-
+...
 
 ## 🧩 Skills Learned
 - Digital logic design
