@@ -16,10 +16,7 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 
 ## 📷 Gallery
 ![SAP1](![1](https://github.com/user-attachments/assets/29a42da7-6d26-4f3f-97dd-cd427534927e))
-![MORE INSIGHTS]![20250828_195812](https://github.com/user-attachments/assets/7180953c-e5ad-40b0-885e-fb8c636a829e)
-![](https://github.com/user-attachments/assets/48153b13-7655-47c0-af1d-46451b786d29)
-![](https://github.com/user-attachments/assets/0c13b40a-0dbd-44eb-aedb-6412fed3d7d6)
-![](https://github.com/user-attachments/assets/7b4f092c-2672-485c-b566-08cc2b40fb20)
+
 
 
 ## 🧩 Skills Learned
