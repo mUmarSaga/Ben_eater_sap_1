@@ -15,7 +15,7 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 - LEDs, resistors, clock circuit,dip switches,capacitors and push buttons
 
 ## 📷 Gallery
-![SAP1](![1](https://github.com/user-attachments/assets/29a42da7-6d26-4f3f-97dd-cd427534927e))
+
 
 
 
