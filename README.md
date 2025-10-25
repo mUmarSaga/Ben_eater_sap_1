@@ -16,6 +16,7 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 
 ## 💻Programs
 -In Sap1Program.asm file there is a unique bonus program that i couldnt find anywhere else on internet. It calculate greatest of two number. 
+[click here to see greaterNumber program](Sap1Programs.asm)
 
 ## 📷 Gallery
 
