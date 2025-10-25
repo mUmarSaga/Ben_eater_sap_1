@@ -1,6 +1,11 @@
 # 8-bit Breadboard Computer (Ben Eater SAP-1)
 
-A fully functional 8-bit computer built from TTL logic chips on breadboards, inspired by Ben Eater's SAP-1 design during my gap holidays before starting my universityo[.
+A fully functional 8-bit computer built from TTL logic chips on breadboards, inspired by Ben Eater's SAP-1 design during my gap holidays before starting my university.
+
+
+## 📷 Gallery
+- In photos folder you can see a bunch of photos of Sap 1
+![Front View](photos/1.jpg)
 
 ## 🧠 Features
 - Manual clock and control unit
@@ -23,9 +28,6 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 ![Click here](instructionSet)
 
 
-## 📷 Gallery
-- In photos folder you can see a bunch of photos of Sap 1
-![Front View](photos/1.jpg)
 
 ## 🧩 Skills Learned
 - Digital logic design
