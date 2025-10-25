@@ -44,4 +44,4 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 Built during my day holidays before starting my CS to understand how a CPU works from the ground up.
 
 ---
-🧠 Built by [Umar Mughal](https://github.com/mUmarSaga)
+🧠 Built by [Muhammad Umar](https://github.com/mUmarSaga)
