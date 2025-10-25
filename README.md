@@ -14,6 +14,9 @@ A fully functional 8-bit computer built from TTL logic chips on breadboards, ins
 - 74LS173, 74LS245, 74LS161, 74LS00, 74LS08, 74LS32, 74LS04,74LS02,74LS86,74LS138,74LS139,74LS157,74LS189,74LS273,74LS00,74LS107,74LS283,28C256,555TIMER,74LS161 etc.
 - LEDs, resistors, clock circuit,dip switches,capacitors and push buttons
 
+## 💻Programs
+-In Sap1Program.asm file there is a unique bonus program that i couldnt find anywhere else on internet. It calculate greatest of two number. 
+
 ## 📷 Gallery
 
 
